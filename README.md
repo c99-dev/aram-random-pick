@@ -2,6 +2,8 @@
 
 https://aram.c99-dev.com/
 
+[소스 저장소](https://github.com/c99-dev/aram-random-pick) · [개인 웹 이력서](https://c99-dev.github.io/)
+
 ![image](https://github.com/user-attachments/assets/b4cbbde8-f60d-44f7-a9eb-5a1d673632f7)
 
 ![image](https://github.com/user-attachments/assets/767b1c21-b110-4857-8b83-bb57d8a5916b)
